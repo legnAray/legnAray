@@ -2,7 +2,7 @@
 
 ### Master's Student at ZJU | Actively looking for Internships
 
-- 🔭 I'm currently working on **Reinforcement Learning for Humanoid & Quadruped Robots Locomotion**
+- 🔭 I'm currently working on **Reinforcement Learning for Humanoid & Quadruped Locomotion**
 
 - 🌱 I'm currently learning **Vision-Language-Action (VLA) Models, Multimodal LLMs, and World Models**
 
