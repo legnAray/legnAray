@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **Deep Reinforcement Learning for Humanoid & Quadruped Robots**
 
-- 🌱 I'm currently learning **Vision-Language-Action (VLA) Models, Multimodal LLMs, and World Models**
+- 🌱 I'm currently learning **Behavior Foundation Models(BFM),Vision-Language-Action Models(VLA), and World Action Models(WAM)**
 
 - 📫 How to reach me **legnaray@163.com**
 
