@@ -1,6 +1,6 @@
 # Hi 👋, I'm Qingpeng Li
 
-### Master's Student at ZJU | Actively looking for Internships
+### Master's Student at Zhejiang University | Actively looking for Internships
 
 - 🔭 I'm currently working on **Deep Reinforcement Learning for Humanoid & Quadruped Robots**
 
